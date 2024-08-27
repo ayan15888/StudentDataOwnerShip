@@ -1,6 +1,7 @@
 # StudentDataOwnership Smart Contract
 
-"C:\Users\PC\Downloads\Save+the+date+Microsoft+Azure+Virtual+Training+Day+Accelerate+Development+using+Azure+DevOps+and+GitHub+Part+1.ics"
+"C:\Users\PC\Downloads\WhatsApp Image 2024-08-27 at 17.33.12_660eb328.jpg"
+
 
 ## Vision
 
