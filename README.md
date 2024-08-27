@@ -1,5 +1,3 @@
-Here's a simple README description for your Solidity project, formatted with bullet points, flowchart representation, and emojis:
-
 # 📚 Student Data Ownership Smart Contract
 
 ![download](https://github.com/user-attachments/assets/4df7be05-dd3b-423a-8791-ee57df4a5e9f)
