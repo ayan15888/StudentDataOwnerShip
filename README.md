@@ -42,10 +42,15 @@ The StudentDataOwnership project is designed to empower students with full contr
             |    View Student Data     |
             +-------------------------+
 
-
 ## Contract Address
 
-- **Deployed Contract Address:** 0x4eEd57986642fF098dcb48ef02c67101d9B27C03
+- **Deployed Contract Address:**
+
+```bash
+0x4eEd57986642fF098dcb48ef02c67101d9B27C03
+```
+
+
 
 ## 🔮 Future Scope
 
