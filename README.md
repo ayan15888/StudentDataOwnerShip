@@ -1,5 +1,7 @@
 # StudentDataOwnership Smart Contract
 
+"C:\Users\PC\Downloads\Save+the+date+Microsoft+Azure+Virtual+Training+Day+Accelerate+Development+using+Azure+DevOps+and+GitHub+Part+1.ics"
+
 ## Vision
 
 The StudentDataOwnership project is designed to empower students with full control over their personal data using blockchain technology. The goal is to ensure that students are the exclusive owners of their data, with the authority to determine who can access or modify it, thereby enhancing privacy, data security, and transparency.
