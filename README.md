@@ -35,7 +35,7 @@ The StudentDataOwnership project is designed to empower students with full contr
 
 ## Contract Address
 
-Deployed Contract Address: 0xYourContractAddressHere
+Deployed Contract Address: 0x4eEd57986642fF098dcb48ef02c67101d9B27C03
 
 ## Future Scope
 
@@ -46,7 +46,7 @@ Deployed Contract Address: 0xYourContractAddressHere
 
 ## Contact Details
 
-Developer: Md Ayan QUrashi
+Developer: Md Ayan Qurashi
 Email- ayanqurashi10@gmail.com
 
-Address:0x4eEd57986642fF098dcb48ef02c67101d9B27C03
+
