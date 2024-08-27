@@ -46,6 +46,6 @@ Deployed Contract Address: 0xYourContractAddressHere
 
 ## Contact Details
 
-Developer: Rajdeep Deb
-Email: rajdeep.deb@example.com
-LinkedIn: https://www.linkedin.com/in/rajdeepdeb
+Developer: Md Ayan QUrashi
+Email- ayanqurashi10@gmail.com
+
