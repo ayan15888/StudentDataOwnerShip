@@ -1,6 +1,7 @@
 # StudentDataOwnership Smart Contract
 
-"C:\Users\PC\Downloads\WhatsApp Image 2024-08-27 at 17.33.12_660eb328.jpg"
+![WhatsApp Image 2024-08-27 at 17 33 12_660eb328](https://github.com/user-attachments/assets/45c921b9-bdaa-46d6-9b85-a5862f7d44ba)
+
 
 
 ## Vision
