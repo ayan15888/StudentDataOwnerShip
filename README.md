@@ -1,6 +1,7 @@
 # StudentDataOwnership Smart Contract
 
-![WhatsApp Image 2024-08-27 at 17 33 12_660eb328](https://github.com/user-attachments/assets/45c921b9-bdaa-46d6-9b85-a5862f7d44ba)
+![download](https://github.com/user-attachments/assets/4df7be05-dd3b-423a-8791-ee57df4a5e9f)
+
 
 
 
