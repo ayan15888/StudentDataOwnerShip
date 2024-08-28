@@ -64,4 +64,12 @@ The StudentDataOwnership project is designed to empower students with full contr
 - **Developer:** Md Ayan Qurashi
 - **Email:** ayanqurashi10@gmail.com
 
+  ## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to OpenZeppelin for their contributions to token standards and security practices.
+
 
